@@ -2,7 +2,7 @@ class Hiro < Formula
   desc "Hiro language CLI and interpreter"
   homepage "https://github.com/HiroyukiGPU/hiro"
   url "https://github.com/HiroyukiGPU/hiro/releases/download/v0.1.17/hiro-0.1.17.tar.gz"
-  sha256 "c8294a77b3dcbfb5fbababde0a3c048459c643a65417f182fe608ff772d68995"
+  sha256 "1c1eccf4c64760fb6abaf69abee00cdece2e401544f663d03fc7cbed2d44b74d"
   license "MIT"
 
   depends_on "node" # Node実行ラッパー方式のため
